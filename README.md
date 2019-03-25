@@ -1,3 +1,8 @@
+// Creating a Custom Bootstrap Build With SCSS
+// https://www.codementor.io/trey/create-custom-bootstrap-build-with-scss-du107p62v
+// Создание собственных версий bootstrap
+// https://rybinden.ru/sozdanie-sobstvennyh-versij-bootstrap.html
+
 Customizing a Bootstrap SASS build with Bower
 =============================================
 
